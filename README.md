@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my own version of a python telnet client for gaming
+- 🔭 I’m currently working server automation projects to make managing game servers easier regardless of game or platform
 - 😄 Pronouns: He Him His
-- ⚡ Fun fact: I learned to code from playing muds, and I still play them. 
+- ⚡ Fun fact: I learned to code from playing muds. 
 - I made this readme as a reminder to myself to work on this readme once I finish my two current projects
 - 📫 How to reach me: ropelinc@gmail.com
 
