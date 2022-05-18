@@ -5,7 +5,7 @@
 - 😄 Pronouns: He Him His
 - ⚡ Fun fact: I learned to code from playing muds. 
 - I made this readme as a reminder to myself to work on this readme once I finish my two current projects
-- 📫 How to reach me: ropelinc@gmail.com
+- 📫 How to reach me: ropelinc@gmail.com https://www.linkedin.com/in/jdwrmartin/
 
 #### Favorite examples:
 - first foray into unit testing in college: https://github.com/LincT/BlackJackCapstone
