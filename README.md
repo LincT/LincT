@@ -7,6 +7,13 @@
 - I made this readme as a reminder to myself to work on this readme once I finish my two current projects
 - 📫 How to reach me: ropelinc@gmail.com
 
+#### Favorite examples:
+- first foray into unit testing in college: https://github.com/LincT/BlackJackCapstone
+- my own sql orm: https://github.com/LincT/PythonExamples/blob/master/sql_handler.py
+
+#### My current todo's
+- clean up repository as it has all of my projects public, I want to change this to focus on accomplishments and talent
+- Get more examples out of what I can do including db and python integrations involving multiple rdbms.
 <!--
 **LincT/LincT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
