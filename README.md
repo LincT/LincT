@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working server automation projects to make managing game servers easier regardless of game or platform
+- 🔭 I’m currently working on 
+  - server automation projects to make managing game servers easier regardless of game or platform
+  - python dns serrver for socket practice
 - 😄 Pronouns: He Him His
 - ⚡ Fun fact: I learned to code from playing muds. 
 - I made this readme as a reminder to myself to work on this readme once I finish my two current projects
@@ -17,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: He Him His
-- ⚡ Fun fact: I learned to code from playing muds, and I still play them.
+- ⚡ Fun fact: I learned to code from playing muds.
 -->
