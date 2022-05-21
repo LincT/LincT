@@ -1,15 +1,16 @@
 ### Hi there 👋
 - 🔭 I’m currently working on 
   - server automation projects to make managing game servers easier regardless of game or platform
-  - python dns serrver for socket practice
+  - python dns server for socket practice
 - 😄 Pronouns: He Him His
 - ⚡ Fun fact: I learned to code from playing muds. 
 - I made this readme as a reminder to myself to work on this readme once I finish my two current projects
 - 📫 How to reach me: ropelinc@gmail.com https://www.linkedin.com/in/jdwrmartin/
 
-#### Favorite examples:
+#### Favorite projects:
 - first foray into unit testing in college: https://github.com/LincT/BlackJackCapstone
 - my own sql orm: https://github.com/LincT/PythonExamples/blob/master/sql_handler.py
+- DNS server using only python builtins - https://github.com/LincT/DNS
 
 #### My current todo's
 - clean up repository as it has all of my projects public, I want to change this to focus on accomplishments and talent
