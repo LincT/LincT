@@ -13,8 +13,7 @@
 - DNS server using only python builtins - https://github.com/LincT/DNS
 
 #### My current todo's
-- clean up repository as it has all of my projects public, I want to change this to focus on accomplishments and talent
-- Get more examples out of what I can do including db and python integrations involving multiple rdbms.
+- SaaS projects for local community organization pro bono
 <!--
 **LincT/LincT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
