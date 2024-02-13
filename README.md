@@ -14,6 +14,8 @@
 
 #### My current todo's
 - SaaS projects for local community organization pro bono
+
+#### Feel free to [buy me a coffee](https://www.buymeacoffee.com/thornmire)
 <!--
 **LincT/LincT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
